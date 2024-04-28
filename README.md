@@ -4,7 +4,7 @@ Install nodemon to monitor for any changes in your source and automatically rest
 
 Download the project from the git repo
 
-To install project depnedencies - run 'npm install'
+To install project dependencies - run 'npm install'
 
 Start the project --->  run 'npm start' 
 
